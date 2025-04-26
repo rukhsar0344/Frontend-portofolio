@@ -1,8 +1,7 @@
-![logo](https://github.com/rukhsar0344/Frontend-portofolio/blob/main/Black%20Minimalist%20Black%20Friday%20Special%20Sale%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rukhsar Mujeeb</h1>
 <h3 align="center">"Frontend Developer | HTML, CSS, JavaScript Enthusiast | Learning & Building Web Experiences"</h3>
 
-<img align="right"alt="coding" widht="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align="right" alt="coding" widht="400"src="https://i.pinimg.com/originals/13/ae/59/13ae593c39163baf0bc2a393c6f4f705.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rukhsar0344&label=Profile%20views&color=0e75b6&style=flat" alt="rukhsar0344" /> </p>
 
@@ -22,5 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rukhsar0344&show_icons=true&locale=en" alt="rukhsar0344" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rukhsar0344&" alt="rukhsar0344" /></p>
-
 
