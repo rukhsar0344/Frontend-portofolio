@@ -1,4 +1,5 @@
-<h1>Hey 👋 I Am Rukhsar Mujeeb<h1>
+![logo](https://github.com/rukhsar0344/Frontend-portofolio/blob/main/Black%20Minimalist%20Black%20Friday%20Special%20Sale%20Banner.png)
+<h1 align="center">Hey 👋 I Am Rukhsar Mujeeb<h1>
 <h3 align="center">"Frontend Developer | HTML, CSS, JavaScript Enthusiast | Learning & Building Web Experiences"</h3>
 
 <img src="https://img.freepik.com/premium-photo/cute-chibi-programmer-with-laptop-code-display_1314184-14809.jpg?w=1380" width="400" align="right">
