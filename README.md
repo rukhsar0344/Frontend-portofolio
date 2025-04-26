@@ -1,3 +1,4 @@
+![logo](https://github.com/rukhsar0344/Frontend-portofolio/blob/main/Black%20Minimalist%20Black%20Friday%20Special%20Sale%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rukhsar Mujeeb</h1>
 <h3 align="center">"Frontend Developer | HTML, CSS, JavaScript Enthusiast | Learning & Building Web Experiences"</h3>
 
