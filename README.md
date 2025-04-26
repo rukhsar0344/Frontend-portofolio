@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rukhsar Mujeeb</h1>
 <h3 align="center">"Frontend Developer | HTML, CSS, JavaScript Enthusiast | Learning & Building Web Experiences"</h3>
 
-<img align="right" alt="coding" widht="400"src="https://i.pinimg.com/originals/13/ae/59/13ae593c39163baf0bc2a393c6f4f705.gif">
+<img src="https://img.freepik.com/premium-photo/cute-chibi-programmer-with-laptop-code-display_1314184-14809.jpg?w=1380" width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rukhsar0344&label=Profile%20views&color=0e75b6&style=flat" alt="rukhsar0344" /> </p>
 
